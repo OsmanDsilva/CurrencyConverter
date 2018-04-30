@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+echo "USD - US Dollar"
+echo "EUR - Euro"
+echo "GBP - British Pound"
+echo "INR - Indian Ruppee"
+echo "AUD - Australian Dollar"
+echo "CAD - Canadian Dollar"
+echo "SGD - Singapore"
+echo "CHF - Swiss Franc"
+echo "MYR - Malaysian Ringgit"
+echo "JPY - Japanese Yen"
+echo "CNY - Chinese Yuan Renminbi"
